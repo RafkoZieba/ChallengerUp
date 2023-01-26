@@ -1,5 +1,5 @@
-﻿string gender = "";
-string message = "";
+﻿string gender = null;
+string message = null;
 
 Console.WriteLine("Kim jesteś? Podaj swoje imię do wyboru Adam, Ala, Ela");
 var name = Console.ReadLine();
